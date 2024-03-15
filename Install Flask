@@ -1,0 +1,4 @@
+pip install Flask
+
+mkdir remind_me_later_project
+cd remind_me_later_project
